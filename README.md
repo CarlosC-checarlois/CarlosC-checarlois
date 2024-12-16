@@ -1,6 +1,6 @@
-# 👋 Hola, soy Carlos CheCarlois
+# 👋 Hola, soy Carlos Constante
 
-Soy estudiante de **Ingeniería en Sistemas de Información** con experiencia en el desarrollo de software, diseño web y bases de datos. Me apasiona crear soluciones innovadoras, enseñar y contribuir a proyectos con impacto social. 🚀
+Soy estudiante de **Ingeniería en Sistemas de Información** con experiencia en el desarrollo de software, diseño web, bases de datos y de aplicaciones mobiles. Me apasiona crear soluciones innovadoras, enseñar y contribuir a proyectos con impacto social. 🚀
 
 ## 🛠️ **Habilidades Técnicas**
 ### Programming Skills:
